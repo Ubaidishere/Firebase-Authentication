@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login &amp; Signup</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="Continue">Continue</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="hello">Hello</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create">Sign Up</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Create">Sign Up</string>
+    <string name="or_create_account_using_social_media">I\'m already a member</string>
+    <string name="create_account">Create account</string>
+    <string name="user_name">User Name</string>
+    <string name="your_e_mail_address">Your e-mail address</string>
+    <string name="please_enter_the_email_associated_with_your_account_to_reset_your_password">Please enter your email to reset your password.</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="reset">Reset</string>
+    <string name="singn_in_page">sign in page</string>
+    <string name="logout">Logout</string>
+</resources>
